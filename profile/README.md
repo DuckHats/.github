@@ -25,10 +25,6 @@ DuckHats no es solo una organización, es una filosofía. Nuestra misión es mez
     <img src="https://avatars.githubusercontent.com/u/148874809?v=4" alt="DuckHats Logo" width="200"/>
   </p>
 
-- **Colores principales**:  
-  - 🟡 **Amarillo** (#FFD700): Energía, optimismo y creatividad.  
-  - ⚫ **Negro** (#000000): Sofisticación, enfoque y estilo.
-
 - **Slogan**:  
   _"Navegamos el futuro con estilo y propósito."_
 
@@ -40,8 +36,6 @@ DuckHats no solo es tecnología, ¡es comunidad! Síguenos en nuestras redes par
 
 - 🌍 **Web**: [https://duckhats.github.io/](https://duckhats.github.io/)  
 - 🐦 **Twitter**: [@DuckHats](https://twitter.com/DuckHats)  
-- 👔 **LinkedIn**: [DuckHats](https://linkedin.com/company/duckhats)  
-- 📸 **Instagram**: [@DuckHatsLife](https://instagram.com/duckhatslife)  
 
 ¿Tienes algo que compartir? Únete a la conversación con el hashtag `#DuckHats` 🎩🦆.
 
