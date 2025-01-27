@@ -50,7 +50,7 @@ Aunque muchos de nuestros proyectos son de código cerrado, compartimos herramie
 ## 🌟 Gracias por ser parte de DuckHats
 
 DuckHats es un espacio para soñar en grande, trabajar juntos y disfrutar del camino.  
-Si tienes preguntas, ideas o simplemente quieres decir "¡hola!", no dudes en escribirnos a [contacto@duckhats.org](mailto:contacto@duckhats.org).
+Si tienes preguntas, ideas o simplemente quieres decir "¡hola!", no dudes en escribirnos a [duck4hats@gmail.com](mailto:duck4hats@gmail.com).
 
 ---
 
