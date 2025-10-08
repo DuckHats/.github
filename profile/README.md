@@ -3,7 +3,7 @@
 ¡Bienvenido a **DuckHats**!  
 Somos una comunidad apasionada por la creatividad, la tecnología y la innovación. En DuckHats, combinamos estilo y propósito para navegar juntos hacia el futuro.
 
-Visita nuestra página web: [https://duckhats.github.io/](https://duckhats.github.io/)
+Visita nuestra página web: [https://duckhats.vercel.app](https://duckhats.vercel.app) 
 
 ---
 
@@ -35,7 +35,7 @@ DuckHats no es solo una organización, es una filosofía. Nuestra misión es mez
 DuckHats no solo es tecnología, ¡es comunidad! Síguenos en nuestras redes para estar al día con nuestras últimas novedades y eventos:
 
 - 🌍 **Web**: [https://duckhats.github.io/](https://duckhats.github.io/)  
-- 🐦 **Twitter**: [@DuckHats](https://twitter.com/DuckHats)  
+- 🐦 **Twitter**: [@DuckHats](https://twitter.com/hats4ducks)  
 
 ¿Tienes algo que compartir? Únete a la conversación con el hashtag `#DuckHats` 🎩🦆.
 
