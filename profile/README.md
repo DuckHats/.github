@@ -34,8 +34,10 @@ DuckHats no es solo una organización, es una filosofía. Nuestra misión es mez
 
 DuckHats no solo es tecnología, ¡es comunidad! Síguenos en nuestras redes para estar al día con nuestras últimas novedades y eventos:
 
-- 🌍 **Web**: [https://duckhats.github.io/](https://duckhats.github.io/)  
-- 🐦 **Twitter**: [@DuckHats](https://twitter.com/hats4ducks)  
+- **Web**: [https://duckhats.cat/](https://duckhats.cat)  
+- **Twitter**: [@Hats4Ducks](https://twitter.com/hats4ducks)
+- **Instagram**: [@hats4_ducks](https://instagram.com/hats4_ducks)
+- **Email**: [info@duckhats.cat](mailto:info@duckhats.cat)
 
 ¿Tienes algo que compartir? Únete a la conversación con el hashtag `#DuckHats` 🎩🦆.
 
@@ -50,7 +52,7 @@ Aunque muchos de nuestros proyectos son de código cerrado, compartimos herramie
 ## 🌟 Gracias por ser parte de DuckHats
 
 DuckHats es un espacio para soñar en grande, trabajar juntos y disfrutar del camino.  
-Si tienes preguntas, ideas o simplemente quieres decir "¡hola!", no dudes en escribirnos a [duck4hats@gmail.com](mailto:duck4hats@gmail.com).
+Si tienes preguntas, ideas o simplemente quieres decir "¡hola!", no dudes en escribirnos a [info@duckhats.cat](mailto:info@duckhats.cat).
 
 ---
 
