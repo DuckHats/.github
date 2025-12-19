@@ -3,7 +3,7 @@
 ¡Bienvenido a **DuckHats**!  
 Somos una comunidad apasionada por la creatividad, la tecnología y la innovación. En DuckHats, combinamos estilo y propósito para navegar juntos hacia el futuro.
 
-Visita nuestra página web: [https://duckhats.vercel.app](https://duckhats.cat) 
+Visita nuestra página web: [https://duckhats.cat](https://duckhats.cat) 
 
 ---
 
